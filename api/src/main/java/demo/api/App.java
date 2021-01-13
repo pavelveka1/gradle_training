@@ -1,8 +1,10 @@
 package demo.api;
 
+import demo.core.Utils;
+
 public class App {
     public static void main(String[] args) {
-        demo.core.Utils utils = new demo.core.Utils();
+        Utils utils = new Utils();
         System.out.println(utils.isAllPositiveNumbers("12", "79"));
     }
 }
