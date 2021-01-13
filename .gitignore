@@ -3,12 +3,12 @@
 .idea
 
 # Ignore Gradle build output directory
-gradle
-gradlew
-gradlew.bat
-.gitattributes
-.gitignore
-/buildSrc
-/gradle
-.classpath
-.project
+/gradle/
+/gradlew
+/gradlew.bat
+/.gitattributes
+/.gitignore
+/buildSrc/
+/gradle/
+/.classpath
+/.project
