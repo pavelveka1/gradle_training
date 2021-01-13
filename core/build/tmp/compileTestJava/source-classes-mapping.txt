@@ -1,2 +1,0 @@
-demo/core/UtilsTest.java
- demo.core.UtilsTest
